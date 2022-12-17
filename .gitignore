@@ -1,3 +1,4 @@
 config/secrets
 .env
 .bundle
+.idea
