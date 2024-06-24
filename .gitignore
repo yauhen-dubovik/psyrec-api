@@ -2,3 +2,5 @@ config/secrets
 .env
 .bundle
 .idea
+tmp
+log
